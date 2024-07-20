@@ -1,0 +1,199 @@
+{
+  "basics": {
+    "name": "Brandon Joel Castillo González",
+    "label": "Desarrollador de software con más 5 años de experiencia",
+    "image": "/me.webp",
+    "email": "brajoel98@gmail.com",
+    "phone": "+52 664 116 8178",
+    "url": "https://github.com/brandonjcg",
+    "summary": "Desarrollador de software con una sólida experiencia de más 5 años en el rubro. Participé en la integración de nuevas funcionales en sistemas de inventarios y de manufactura, así como la refactorización y migración de tecnológicas de sistemas productivos, utilizando el marco de trabajo SCRUM y la metodología Kanban para la gestión de los proyectos.",
+    "location": {
+      "address": "",
+      "postalCode": "22185",
+      "city": "Tijuana",
+      "countryCode": "ES",
+      "region": "México"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "brandonjcg",
+        "url": "https://linkedin.com/in/brandonjcg"
+      },
+      {
+        "network": "GitHub",
+        "username": "brandonjcg",
+        "url": "https://github.com/brandonjcg"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "G-Global",
+      "position": "Desarrollador full stack",
+      "url": null,
+      "startDate": "2022-05-01",
+      "endDate": null,
+      "summary": "Desarrollé un sistema de inventarios con un stack de React (TypeScript), NestJS y base de datos MySQL. Implementé un sistema de autenticación con JWT y un sistema de roles, módulos y permisos. Desarrollé importadores masivos de catálogos, todo esto implementando buenas prácticas como los principios SOLID y documentando las APIs con Swagger."
+    },
+    {
+      "name": "G-Global",
+      "position": "Analista de base de datos",
+      "url": null,
+      "startDate": "2019-07-24",
+      "endDate": "2022-05-01",
+      "summary": "Realicé migraciones entre sistemas de inventarios (anexo 24 y ERP) utilizando diferentes motores de base de datos, manteniendo la integridad de la información. Participé en el diseño y normalización de la base de datos para el desarrollo del sistema de inventarios propio de la empresa (anexo 24). Además, implementé cronjobs en el equipo para automatizar en un 90% el respaldo de las bases de datos."
+    },
+    {
+      "name": "Diamond Electronics",
+      "position": "Técnico en sistemas",
+      "startDate": "2019-07-01",
+      "endDate": "2018-08-01",
+      "summary": "Desarrollé un sistema de trazabilidad para series de TV en pallets físicos y órdenes de compra, lo que mejoró la eficiencia del departamento de logística y envíos. Brindé soporte a la planta a través del sistema de tickets help-desk en categorías como Active Directory, Office 365, Microsoft Dynamics ERP y sistemas internos."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Universidad Tecnológica de Tijuana",
+      "url": "https://uttijuana.edu.mx/",
+      "area": "Ingeniero de Tecnologías de la Información y Comunicación",
+      "startDate": "2016-08-01",
+      "endDate": "2020-05-01"
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "SQL Server",
+      "level": "Avanzado",
+      "keywords": [
+        "Database",
+        "SQL",
+        "Base de datos"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "GitLab",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Gitlab"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "NestJS",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "Node",
+        "Framework"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}
