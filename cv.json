@@ -34,7 +34,8 @@
       "url": null,
       "startDate": "2022-05-01",
       "endDate": null,
-      "summary": "Desarrollé un sistema de inventarios con un stack de React (TypeScript), NestJS y base de datos MySQL. Implementé un sistema de autenticación con JWT y un sistema de roles, módulos y permisos. Desarrollé importadores masivos de catálogos, todo esto implementando buenas prácticas como los principios SOLID y documentando las APIs con Swagger."
+      "summary": "Desarrollé un sistema de inventarios con un stack de React (TypeScript), NestJS y base de datos MySQL. Implementé un sistema de autenticación con JWT y un sistema de roles, módulos y permisos. Desarrollé importadores masivos de catálogos, todo esto implementando buenas prácticas como los principios SOLID y documentando las APIs con Swagger.",
+      "highlights": []
     },
     {
       "name": "G-Global",
@@ -42,14 +43,16 @@
       "url": null,
       "startDate": "2019-07-24",
       "endDate": "2022-05-01",
-      "summary": "Realicé migraciones entre sistemas de inventarios (anexo 24 y ERP) utilizando diferentes motores de base de datos, manteniendo la integridad de la información. Participé en el diseño y normalización de la base de datos para el desarrollo del sistema de inventarios propio de la empresa (anexo 24). Además, implementé cronjobs en el equipo para automatizar en un 90% el respaldo de las bases de datos."
+      "summary": "Realicé migraciones entre sistemas de inventarios (anexo 24 y ERP) utilizando diferentes motores de base de datos, manteniendo la integridad de la información. Participé en el diseño y normalización de la base de datos para el desarrollo del sistema de inventarios propio de la empresa (anexo 24). Además, implementé cronjobs en el equipo para automatizar en un 90% el respaldo de las bases de datos.",
+      "highlights": []
     },
     {
       "name": "Diamond Electronics",
       "position": "Técnico en sistemas",
       "startDate": "2019-07-01",
       "endDate": "2018-08-01",
-      "summary": "Desarrollé un sistema de trazabilidad para series de TV en pallets físicos y órdenes de compra, lo que mejoró la eficiencia del departamento de logística y envíos. Brindé soporte a la planta a través del sistema de tickets help-desk en categorías como Active Directory, Office 365, Microsoft Dynamics ERP y sistemas internos."
+      "summary": "Desarrollé un sistema de trazabilidad para series de TV en pallets físicos y órdenes de compra, lo que mejoró la eficiencia del departamento de logística y envíos. Brindé soporte a la planta a través del sistema de tickets help-desk en categorías como Active Directory, Office 365, Microsoft Dynamics ERP y sistemas internos.",
+      "highlights": []
     }
   ],
   "volunteer": [],
@@ -69,19 +72,12 @@
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Diseño Responsive"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
     },
     {
       "name": "Tailwind",
@@ -96,12 +92,7 @@
     {
       "name": "JavaScript",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "TypeScript",
@@ -116,12 +107,7 @@
     {
       "name": "Node",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Backend",
-        "JavaScript",
-        "Servidor"
-      ]
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
     },
     {
       "name": "MySQL",
@@ -136,20 +122,12 @@
     {
       "name": "SQL Server",
       "level": "Avanzado",
-      "keywords": [
-        "Database",
-        "SQL",
-        "Base de datos"
-      ]
+      "keywords": ["Database", "SQL", "Base de datos"]
     },
     {
       "name": "Git",
       "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente"
-      ]
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
     },
     {
       "name": "GitHub",
@@ -174,22 +152,12 @@
     {
       "name": "React",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "NestJS",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Backend",
-        "Node",
-        "Framework"
-      ]
+      "keywords": ["Desarrollo Web", "Backend", "Node", "Framework"]
     }
   ],
   "languages": [],
